@@ -28,7 +28,7 @@ h3 {
 
 .wrap {
     width: 80vw;
-    height: 445vh;
+    height: 430vh;
     margin: 0 auto;
     background-color: rgba(0, 0, 0, 0.75);
 }
@@ -40,6 +40,3 @@ img {
     width: 50%;
 }
 
-.imgcaption {
-    text-align: center;
-}
